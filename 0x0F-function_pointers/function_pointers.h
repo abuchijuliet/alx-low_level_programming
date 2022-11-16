@@ -1,5 +1,5 @@
-#ifndef function_pointers_H
-#define function_pointers_H
+#ifndef FUNCTION_pointers_H
+#define FUNCTION_pointers_H
 
 #include <stio.h>
 
